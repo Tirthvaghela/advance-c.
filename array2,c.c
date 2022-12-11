@@ -1,4 +1,4 @@
-/*Wap to read and print 3-Dimentional matrix in advance c short full code.*/
+/*Wap to read and print 3-Dimentional matrix in advance c code.*/
 
 #include<stdio.h>
 #define N 3
